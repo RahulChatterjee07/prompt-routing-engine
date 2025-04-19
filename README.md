@@ -1,5 +1,4 @@
 # prompt-routing-engine
-# Prompt Routing Engine
 
 This project simulates an intelligent routing engine that automatically directs various document types (e.g., forms, reports, assessments, correspondence) to appropriate LLM prompt templates. Inspired by real-world enterprise applications, it uses mocked Textract outputs and a simple rule engine to demonstrate the concept.
 
