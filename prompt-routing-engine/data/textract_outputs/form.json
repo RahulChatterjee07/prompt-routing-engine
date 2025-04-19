@@ -1,0 +1,22 @@
+{
+    "Blocks": [
+      {
+        "BlockType": "KEY_VALUE_SET",
+        "EntityTypes": ["KEY"],
+        "Text": "Patient Name"
+      },
+      {
+        "BlockType": "KEY_VALUE_SET",
+        "EntityTypes": ["VALUE"],
+        "Text": "John Doe"
+      },
+      {
+        "BlockType": "TABLE"
+      },
+      {
+        "BlockType": "LINE",
+        "Text": "Form: Medical History Intake"
+      }
+    ]
+  }
+  

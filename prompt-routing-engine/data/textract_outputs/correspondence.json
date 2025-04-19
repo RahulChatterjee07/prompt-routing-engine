@@ -1,0 +1,17 @@
+{
+    "Blocks": [
+      {
+        "BlockType": "LINE",
+        "Text": "Clinical Evaluation Report"
+      },
+      {
+        "BlockType": "LINE",
+        "Text": "The patient presents symptoms of..."
+      },
+      {
+        "BlockType": "LINE",
+        "Text": "Assessment includes physical exam and imaging."
+      }
+    ]
+  }
+  
